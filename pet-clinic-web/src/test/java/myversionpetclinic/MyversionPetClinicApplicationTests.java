@@ -1,4 +1,4 @@
-package com.rafiktaamma.myversionpetclinic;
+package myversionpetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
